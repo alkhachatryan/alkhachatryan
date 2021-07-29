@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=alkhachatryan&color=green)
 [![Linkedin](https://img.shields.io/badge/-Alexey%20Khachatryan-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/alexey-khachatryan-8707b7a5/)](https://www.linkedin.com/in/alexey-khachatryan-8707b7a5/)
-[![Mail](https://img.shields.io/badge/-info@khachatryan.org-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:info@khachatryan.org)
+[![Mail](https://img.shields.io/badge/-alexey.khachatryan@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:alexey.khachatryan@gmail.com)
 
 
 
