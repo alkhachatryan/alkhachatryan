@@ -7,8 +7,7 @@
 
 
 ## About me 
-I'm a Laravel Certified software development engineer. I like to work with Laravel, NodeJS and Python. I love Linux Kernel based OSs such as Ubuntu and CentOS.
-I'm open-source development enthusiast.
+Laravel, Python, NodeJS and Embedded C developer. Linux lover. Open-source development enthusiast.
 
 
 ## Stack I work with
