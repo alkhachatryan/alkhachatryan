@@ -19,5 +19,7 @@ Laravel, Python, NodeJS and Embedded C developer. Linux lover. Open-source devel
 
 ### Interesting stats
 
-![Alexey's stats](https://github-readme-stats.vercel.app/api?username=alkhachatryan&show_icons=true)
+![Alexey's GitHub stats](https://github-readme-stats.vercel.app/api?username=alkhachatryan&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alkhachatryan&layout=donut)
+
 
