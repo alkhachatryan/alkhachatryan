@@ -14,7 +14,7 @@ Laravel, Python, NodeJS and Embedded C developer. Linux lover. Open-source devel
 ![trophy](https://github-profile-trophy.vercel.app/?username=alkhachatryan)
 
 ## Things I do
-![My Things](https://skillicons.dev/icons?i=py,laravel,nodejs,linux,ubuntu,c,aws,bash,docker,git,postgres,redis,mongodb,arduino,mysql,kali,raspberrypi,sqlite,postman,php,js,github,gitlab,elasticsearch,django,cloudflare,cpp,asdfasdf)
+![My Things](https://skillicons.dev/icons?i=py,laravel,nodejs,linux,ubuntu,c,aws,bash,docker,git,postgres,redis,mongodb,mysql,kali,raspberrypi,sqlite,postman,php,js,github,gitlab,elasticsearch,django,cloudflare,cpp,arduino,debian,gcp)
 
 
 ### Interesting stats
